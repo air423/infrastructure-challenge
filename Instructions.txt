@@ -9,7 +9,7 @@ I prefer NGINX because it has lot of features like open source reverse proxy, lo
 Alpine Linux is much smaller than most distribution base images and thus leads to much slimmer images in general.
 With this we are replacing the welcome page on the webserver with custom welcome page (“HELLO WORLD!”)
 
-3. Run below command to build the docker image based on given docker file. I want to name this build as tulasi:v1.
+3. Run below command to build the docker image based on given docker file. I want to name this build as air423:v1.
 docker build -t air423:v1 .
 
 4. Run below command to start Nginx listening to port 80
