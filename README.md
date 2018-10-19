@@ -11,4 +11,3 @@ If you have any questions or issues, please send a message to @Michel Lacle in t
 Sign up to the Plastiq public Slack workspace here https://join.slack.com/t/plastiqpublic/shared_invite/enQtNDUyOTAwMTczNjg1LTViZWY4ZDM0MDE5NjI2ODQ4MWQ3NDY4YmU3NTg3NDFjZGZiMjljMjYwMDQxOTE0MzUzZmM1YzQyYzU1NGE2MjQ
 
 Happy Coding :)
-

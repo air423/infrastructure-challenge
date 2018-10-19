@@ -29,5 +29,3 @@ The push refers to repository [docker.io/air423/task]
 
 Now this is published on hub.docker.com and availble for pull from any server running docker by running docker pull air423/task:v1.
 Once this container is up on server it will return "Hello World" whenver a call is made at host.
-
-
